@@ -1,8 +1,13 @@
 # trading-agent-paper
 ### LLM-based agent trading
-| Title | GitHub | Paper | More |
-|---------|--------|-------|--------|
-| **SOCIODOJO: BUILDING LIFELONG ANALYTICAL AGENTS WITH REAL-WORLD TEXT AND TIME SERIES** | [SOCIODOJO](https://github.com/chengjunyan1/SocioDojo) | [SOCIODOJO](https://openreview.net/forum?id=s9z0HzWJJp) |
-| **TradingAgents: Multi-Agents LLM Financial Trading Framework** | [TradingAgents](https://arxiv.org/abs/2412.20138) | [TradingAgents](https://github.com/TauricResearch/TradingAgents) |
-| **MASS: Multi-Agent Simulation Scaling for Portfolio Construction** | [MASS](https://github.com/gta0804/MASS) | [MASS](https://arxiv.org/abs/2505.10278) |
-| **LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction** | [LLM4FTS] | [LLM4FTS](https://arxiv.org/abs/2505.02880) |
+| Title |Description| Data|Evaluation Metrics|GitHub Link | Paper Link| 
+|---------|--------|-------|--------|--------|--------|
+| **SOCIODOJO: BUILDING LIFELONG ANALYTICAL AGENTS WITH REAL-WORLD TEXT AND TIME SERIES** |LLM-based Agent | Dow Jones 30 and other popular financial assets |Overall Return, Sharpe ratio|[SOCIODOJO](https://github.com/chengjunyan1/SocioDojo) |[SOCIODOJO](https://openreview.net/forum?id=s9z0HzWJJp) |
+|**A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading**| LLM-based Agent|CryptoTrade (BTC, ETH, and SOL)| Total Return Daily Return Sharpe Ratio |[CryptoTrade](https://github.com/Xtra-Computing/CryptoTrade)|[CryptoTrade](https://aclanthology.org/2024.emnlp-main.63.pdf)|
+| **TradingAgents: Multi-Agents LLM Financial Trading Framework** | LLM-based agent | Apple, Nvidia, Microsoft, Meta, Google, and more |Cumulative Return (CR),  Annualized Return (AR), Sharpe Ratio (SR), Maximum Drawdown (MDD)|[TradingAgents](https://arxiv.org/abs/2412.20138) | [TradingAgents](https://github.com/TauricResearch/TradingAgents) |
+| **MASS: Multi-Agent Simulation Scaling for Portfolio Construction** | Market Portfolios Agent|SSE 50, ChiNext 100, and CSI 300 | the Information Coefficient (IC), Information Coefficient Information Ratio (ICIR), Rank Information Coefficient (RIC), and Rank Information Coefficient Information Ratio (RICIR)|[MASS](https://github.com/gta0804/MASS) | [MASS](https://arxiv.org/abs/2505.10278) |
+| **LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction** | Time Series Forecasting | CSI 300, CSI 500, S&P 500, and NASDAQ 100. | Annualized Rate of Return (ARR), Annualized Volatility (AVoL), Maximum Drawdown (MDD), Annualized Sharpe Ratio (ASR), Calmar Ratio (CR), Information Ratio (IR)| [LLM4FTS] | [LLM4FTS](https://arxiv.org/abs/2505.02880) | 
+|**TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** ||||[TwinMarket](https://github.com/TobyYang7/TwinMarket)|[TwinMarket](https://openreview.net/pdf?id=CoTAytuDz1)|
+| **INTEGRATING LLM-GENERATED VIEWS  INTO MEAN-VARIANCE OPTIMIZATION  USING THE BLACK-LITTERMAN MODEL** ||| |[LLM-MVO-BLM](https://github.com/youngandbin/LLM-MVO-BLM) |[LLM-MVO-BLM](https://iclr.cc/virtual/2025/33834)|
+| **Adaptive and Explainable Margin Trading via Large Language Models on Portfolio Management** | Dow Jones Industrial Average (DJIA)  | LLM with RL |Accumulated return (AR), Sharpe ratio (SR), Calmar Ratio CR|[LLM with RL](https://github.com/NJIT-Fintech-Lab/Adaptive-and-Explainable-Margin-Trading-via-LLM-and-RL)|[LLM with RL](https://dl.acm.org/doi/pdf/10.1145/3677052.3698681)|
+
