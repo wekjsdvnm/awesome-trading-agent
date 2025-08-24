@@ -13,6 +13,7 @@
 * **"CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage"**, Na Li, Yansong Gao et al.. [Paper](http://arxiv.org/abs/2507.16872v1)
 
 ### Trading & Execution Agents
+* **"SOCIODOJO: BUILDING LIFELONG ANALYTICAL AGENTS WITH REAL-WORLD TEXT AND TIME SERIES"** [Github](https://github.com/chengjunyan1/SocioDojo) |[Paper](https://openreview.net/forum?id=s9z0HzWJJp)
 * **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Paper](http://arxiv.org/abs/2507.09255v1)
 * **"NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM"**, Yuanzheng Niu, Xiaoqi Li et al.. [Paper](http://arxiv.org/abs/2508.01351v1)
 * **"ByteGen: A Tokenizer-Free Generative Model for Orderbook Events in Byte   Space"**, Yang Li, Zhi Chen. [Paper](http://arxiv.org/abs/2508.02247v2)
@@ -44,6 +45,15 @@
 * **"Decentralised Multi-Manager Fund Framework"**, Arman Abgaryan, Utkarsh Sharma et al.. [Paper](http://arxiv.org/abs/2507.00978v1)
 
 ### Multi-Agent Markets & Mechanisms
+* **A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
+* **TradingAgents: Multi-Agents LLM Financial Trading Framework** [Github](https://arxiv.org/abs/2412.20138) | [Paper](https://github.com/TauricResearch/TradingAgents)
+* **MASS: Multi-Agent Simulation Scaling for Portfolio Construction** [Github](https://github.com/gta0804/MASS) | [Paper](https://arxiv.org/abs/2505.10278)
+* **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** [Github](https://github.com/TobyYang7/TwinMarket)|[Paper](https://openreview.net/pdf?id=CoTAytuDz1)
+* **INTEGRATING LLM-GENERATED VIEWS  INTO MEAN-VARIANCE OPTIMIZATION  USING THE BLACK-LITTERMAN MODEL**[GFithub](https://github.com/youngandbin/LLM-MVO-BLM) |[Paper](https://iclr.cc/virtual/2025/33834)
+* **FINMEM: A PERFORMANCE-ENHANCED LLM TRADING AGENT WITH**  [Github](https://github.com/pipiku915/FinMem-LLM-StockTrading/) | [Paper](https://arxiv.org/abs/2311.13743)
+* **A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist** [Paper](https://arxiv.org/abs/2402.18485)
+* **FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making** [Github](https://github.com/The-FinAI/FinCon) |[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)
+* **Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains** [Github](https://github.com/Hyalinesky/Domaino1s) |[Paper](https://arxiv.org/abs/2501.14431)
 * **"ContestTrade: A Multi-Agent Trading System Based on Internal Contest   Mechanism"**, Li Zhao, Rui Sun et al.. [Github](https://github.com/FinStep-AI/ContestTrade.) | [Paper](http://arxiv.org/abs/2508.00554v2)
 * **"TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit"**, Paulo Salem, Robert Sim et al.. [Github](https://github.com/microsoft/tinytroupe.) | [Paper](http://arxiv.org/abs/2507.09788v1)
 * **"MountainLion: A Multi-Modal LLM-Based Agent System for Interpretable and   Adaptive Financial Trading"**, Siyi Wu, Zhaoyang Guan et al.. [Paper](http://arxiv.org/abs/2507.20474v1)
@@ -119,7 +129,8 @@
 * **"Anticipating Bugs: Ticket-Level Bug Prediction and Temporal Proximity   Effects"**, Daniele La Prova, Emanuele Gentili et al.. [Paper](http://arxiv.org/abs/2506.14290v1)
 * **"Safety-Aware Reinforcement Learning for Control via Risk-Sensitive   Action-Value Iteration and Quantile Regression"**, Clinton Enwerem, Aniruddh G. Puranic et al.. [Paper](http://arxiv.org/abs/2506.06954v1)
 * **"When Better Features Mean Greater Risks: The Performance-Privacy   Trade-Off in Contrastive Learning"**, Ruining Sun, Hongsheng Hu et al.. [Github](https://github.com/SeroneySun/LpLA_code.) | [Paper](http://arxiv.org/abs/2506.05743v1)
-
+* **LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction** [Paper](https://arxiv.org/abs/2505.02880)
+  
 ### Data & Information for Finance
 * **"Modeling Human Responses to Multimodal AI Content"**, Zhiqi Shen, Shaojing Fan et al.. [Paper](http://arxiv.org/abs/2508.10769v1)
 * **"NEURAL: Attention-Guided Pruning for Unified Multimodal   Resource-Constrained Clinical Evaluation"**, Devvrat Joshi, Islem Rekik. [Github](https://github.com/basiralab/NEURAL.) | [Paper](http://arxiv.org/abs/2508.09715v1)
@@ -189,6 +200,7 @@
 * **"The Geopolitical Determinants of Economic Growth, 1960-2019"**, Tianyu Fan. [Paper](http://arxiv.org/abs/2507.04833v2)
 * **"Assessing Small Language Models for Code Generation: An Empirical Study   with Benchmarks"**, Md Mahade Hasan, Muhammad Waseem et al.. [Paper](http://arxiv.org/abs/2507.03160v3)
 * **"Exposing and Mitigating Calibration Biases and Demographic Unfairness in   MLLM Few-Shot In-Context Learning for Medical Image Classification"**, Xing Shen, Justin Szeto et al.. [Github](https://github.com/xingbpshen/medical-calibration-fairness-mllm.) | [Paper](http://arxiv.org/abs/2506.23298v3)
+* **Adaptive and Explainable Margin Trading via Large Language Models on Portfolio Management** [Github](https://github.com/NJIT-Fintech-Lab/Adaptive-and-Explainable-Margin-Trading-via-LLM-and-RL)|[Paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698681)|
 * **"A Reinforcement Learning Approach for Optimal Control in Microgrids"**, Davide Salaorni, Federico Bianchi et al.. [Paper](http://arxiv.org/abs/2506.22995v1)
 * **"Toward Decision-Oriented Prognostics: An Integrated Estimate-Optimize   Framework for Predictive Maintenance"**, Zhuojun Xie, Adam Abdin et al.. [Paper](http://arxiv.org/abs/2506.19698v1)
 * **"Duality and Policy Evaluation in Distributionally Robust Bayesian   Diffusion Control"**, Jose Blanchet, Jiayi Cheng et al.. [Paper](http://arxiv.org/abs/2506.19294v2)
@@ -324,19 +336,3 @@
 * **"Constrained Entropic Unlearning: A Primal-Dual Framework for Large   Language Models"**, Taha Entesari, Arman Hatami et al.. [Paper](http://arxiv.org/abs/2506.05314v1)
 * **"FPTQuant: Function-Preserving Transforms for LLM Quantization"**, Boris van Breugel, Yelysei Bondarenko et al.. [Paper](http://arxiv.org/abs/2506.04985v1)
 
-
-### LLM-based agent trading
-| Title |Description| Data|Evaluation Metrics|GitHub Link | Paper Link| 
-|---------|--------|-------|--------|--------|--------|
-| **SOCIODOJO: BUILDING LIFELONG ANALYTICAL AGENTS WITH REAL-WORLD TEXT AND TIME SERIES** |LLM-based Agent | Dow Jones 30 and other popular financial assets |Overall Return, Sharpe ratio|[SOCIODOJO](https://github.com/chengjunyan1/SocioDojo) |[SOCIODOJO](https://openreview.net/forum?id=s9z0HzWJJp) |
-|**A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading**| LLM-based Agent|CryptoTrade (BTC, ETH, and SOL)| Total Return Daily Return Sharpe Ratio |[CryptoTrade](https://github.com/Xtra-Computing/CryptoTrade)|[CryptoTrade](https://aclanthology.org/2024.emnlp-main.63.pdf)|
-| **TradingAgents: Multi-Agents LLM Financial Trading Framework** | LLM-based agent | Apple, Nvidia, Microsoft, Meta, Google, and more |Cumulative Return (CR),  Annualized Return (AR), Sharpe Ratio (SR), Maximum Drawdown (MDD)|[TradingAgents](https://arxiv.org/abs/2412.20138) | [TradingAgents](https://github.com/TauricResearch/TradingAgents) |
-| **MASS: Multi-Agent Simulation Scaling for Portfolio Construction** | Market Portfolios Agent|SSE 50, ChiNext 100, and CSI 300 | the Information Coefficient (IC), Information Coefficient Information Ratio (ICIR), Rank Information Coefficient (RIC), and Rank Information Coefficient Information Ratio (RICIR)|[MASS](https://github.com/gta0804/MASS) | [MASS](https://arxiv.org/abs/2505.10278) |
-| **LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction** | Time Series Forecasting | CSI 300, CSI 500, S&P 500, and NASDAQ 100. | Annualized Rate of Return (ARR), Annualized Volatility (AVoL), Maximum Drawdown (MDD), Annualized Sharpe Ratio (ASR), Calmar Ratio (CR), Information Ratio (IR)| [LLM4FTS] | [LLM4FTS](https://arxiv.org/abs/2505.02880) | 
-|**TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** ||||[TwinMarket](https://github.com/TobyYang7/TwinMarket)|[TwinMarket](https://openreview.net/pdf?id=CoTAytuDz1)|
-| **INTEGRATING LLM-GENERATED VIEWS  INTO MEAN-VARIANCE OPTIMIZATION  USING THE BLACK-LITTERMAN MODEL** ||| |[LLM-MVO-BLM](https://github.com/youngandbin/LLM-MVO-BLM) |[LLM-MVO-BLM](https://iclr.cc/virtual/2025/33834)|
-| **Adaptive and Explainable Margin Trading via Large Language Models on Portfolio Management** | LLM with RL|  Dow Jones Industrial Average (DJIA) |Accumulated return (AR), Sharpe ratio (SR), Calmar Ratio CR|[LLM with RL](https://github.com/NJIT-Fintech-Lab/Adaptive-and-Explainable-Margin-Trading-via-LLM-and-RL)|[LLM with RL](https://dl.acm.org/doi/pdf/10.1145/3677052.3698681)|
-| **FINMEM: A PERFORMANCE-ENHANCED LLM TRADING AGENT WITH** | LLM-based Agent| TSLA, NFLX, AMZN, MSFT, COIN | Cumulative Return, Sharpe Ratio Daily Volatility,  Annualized Volatility, Max Drawdown| [FinMem](https://github.com/pipiku915/FinMem-LLM-StockTrading/) | [FinMem](https://arxiv.org/abs/2311.13743) |
-| **A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist** |LLM-based Agent | AAPL, AMZN, GOOGL, MSFT, TSLA, ETHUSD | ARR, SR, MDD | [FinAgent]| [FinAgent](https://arxiv.org/abs/2402.18485) |
-| **FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making** | LLM-based Agent |TSLA, AMZN, NIO, MSFT, AAPL, GOOG, NFLX, COIN| CR, SR, MDD| [FinCon](https://github.com/The-FinAI/FinCon) |[FinCon](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf) |
-| **Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains** | | | | [Domaino1s](https://github.com/Hyalinesky/Domaino1s) |[Domaino1s](https://arxiv.org/abs/2501.14431)|
