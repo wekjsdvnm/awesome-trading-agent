@@ -1,6 +1,5 @@
 # trading-agent-paper
 ### Surveys & Benchmarks
-* **"IFD: A Large-Scale Benchmark for Insider Filing Violation Detection"**, Cheng Huang, Fan Gao et al.. [Github](https://github.com/CH-YellowOrange/MaBoost-and-IFD) | [Paper](http://arxiv.org/abs/2507.20162v2)
 * **"EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization   Using Large Language Models"**, Haochen Luo, Yuan Zhang et al.. [Paper](http://arxiv.org/abs/2507.17211v1)
 * **"Assessing the Capabilities and Limitations of FinGPT Model in Financial   NLP Applications"**, Prudence Djagba, Chimezie A. Odinakachukwu. [Paper](http://arxiv.org/abs/2507.08015v1)
 * **"Benchmarking Pre-Trained Time Series Models for Electricity Price   Forecasting"**, Timothée Hornek Amir Sartipi, Igor Tchappi et al.. [Paper](http://arxiv.org/abs/2506.08113v1)
