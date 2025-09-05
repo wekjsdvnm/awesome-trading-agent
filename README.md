@@ -11,8 +11,11 @@
 * **"Integrating Large Language Models in Financial Investments and Market   Analysis: A Survey"**, Sedigheh Mahdavi, Jiating et al.. [Paper](http://arxiv.org/abs/2507.01990v1)
 * **"CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage"**, Na Li, Yansong Gao et al.. [Paper](http://arxiv.org/abs/2507.16872v1)
 
-### Trading & Execution Agents
+### Trading & LLM-based Agents
+* **"TradingGroup: A Multi-Agent Trading System with Self-Reflection and Data-Synthesis"** [Paper](https://arxiv.org/pdf/2508.17565)
 * **"SOCIODOJO: BUILDING LIFELONG ANALYTICAL AGENTS WITH REAL-WORLD TEXT AND TIME SERIES"** [Github](https://github.com/chengjunyan1/SocioDojo) |[Paper](https://openreview.net/forum?id=s9z0HzWJJp)
+* * **A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
+* **TradingAgents: Multi-Agents LLM Financial Trading Framework** [Github](https://arxiv.org/abs/2412.20138) | [Paper](https://github.com/TauricResearch/TradingAgents)
 * **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Paper](http://arxiv.org/abs/2507.09255v1)
 * **"NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM"**, Yuanzheng Niu, Xiaoqi Li et al.. [Paper](http://arxiv.org/abs/2508.01351v1)
 * **"ByteGen: A Tokenizer-Free Generative Model for Orderbook Events in Byte   Space"**, Yang Li, Zhi Chen. [Paper](http://arxiv.org/abs/2508.02247v2)
@@ -26,9 +29,9 @@
 * **"Learned LSM-trees: Two Approaches Using Learned Bloom Filters"**, Nicholas Fidalgo, Puyuan Ye. [Paper](http://arxiv.org/abs/2508.00882v1)
 * **"Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep   Learning Compiler Techniques"**, Yiqi Liu, Yuqi Xue et al.. [Paper](http://arxiv.org/abs/2507.11506v1)
 * **"End-to-End Large Portfolio Optimization for Variance Minimization with   Neural Networks through Covariance Cleaning"**, Christian Bongiorno, Efstratios Manolakis et al.. [Paper](http://arxiv.org/abs/2507.01918v2)
-
-### Portfolio & Allocation Agents
+### System Paper
 * **"FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI   Research and Deployment"**, Wentao Zhang, Yilei Zhao et al.. [Github](https://github.com/DVampire/FinWorld) | [Paper](http://arxiv.org/abs/2508.02292v1)
+### Portfolio & Allocation Agents
 * **"FinDPO: Financial Sentiment Analysis for Algorithmic Trading through   Preference Optimization of LLMs"**, Giorgos Iacovides, Wuyang Zhou et al.. [Paper](http://arxiv.org/abs/2507.18417v1)
 * **"Comparing Normalization Methods for Portfolio Optimization with   Reinforcement Learning"**, Caio de Souza Barbosa Costa, Anna Helena Reali Costa. [Paper](http://arxiv.org/abs/2508.03910v1)
 * **"Accelerated Portfolio Optimization and Option Pricing with Reinforcement   Learning"**, Hadi Keramati, Samaneh Jazayeri. [Paper](http://arxiv.org/abs/2507.01972v1)
@@ -44,8 +47,6 @@
 * **"Decentralised Multi-Manager Fund Framework"**, Arman Abgaryan, Utkarsh Sharma et al.. [Paper](http://arxiv.org/abs/2507.00978v1)
 
 ### Multi-Agent Markets & Mechanisms
-* **A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
-* **TradingAgents: Multi-Agents LLM Financial Trading Framework** [Github](https://arxiv.org/abs/2412.20138) | [Paper](https://github.com/TauricResearch/TradingAgents)
 * **MASS: Multi-Agent Simulation Scaling for Portfolio Construction** [Github](https://github.com/gta0804/MASS) | [Paper](https://arxiv.org/abs/2505.10278)
 * **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** [Github](https://github.com/TobyYang7/TwinMarket)|[Paper](https://openreview.net/pdf?id=CoTAytuDz1)
 * **INTEGRATING LLM-GENERATED VIEWS  INTO MEAN-VARIANCE OPTIMIZATION  USING THE BLACK-LITTERMAN MODEL**[GFithub](https://github.com/youngandbin/LLM-MVO-BLM) |[Paper](https://iclr.cc/virtual/2025/33834)
