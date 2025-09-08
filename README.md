@@ -1,6 +1,5 @@
 # trading-agent-paper
 ### Surveys & Benchmarks
-* **"EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization   Using Large Language Models"**, Haochen Luo, Yuan Zhang et al.. [Paper](http://arxiv.org/abs/2507.17211v1)
 * **"Assessing the Capabilities and Limitations of FinGPT Model in Financial   NLP Applications"**, Prudence Djagba, Chimezie A. Odinakachukwu. [Paper](http://arxiv.org/abs/2507.08015v1)
 * **"Benchmarking Pre-Trained Time Series Models for Electricity Price   Forecasting"**, Timothée Hornek Amir Sartipi, Igor Tchappi et al.. [Paper](http://arxiv.org/abs/2506.08113v1)
 * **"Assessing (im)balance in signed brain networks"**, Marzio Di Vece, Emanuele Agrimi et al.. [Paper](http://arxiv.org/abs/2508.00542v1)
@@ -32,6 +31,7 @@
 ### System Paper
 * **"FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI   Research and Deployment"**, Wentao Zhang, Yilei Zhao et al.. [Github](https://github.com/DVampire/FinWorld) | [Paper](http://arxiv.org/abs/2508.02292v1)
 ### Portfolio & Allocation Agents
+* **"EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization   Using Large Language Models"**, Haochen Luo, Yuan Zhang et al.. [Paper](http://arxiv.org/abs/2507.17211v1)
 * **"FinDPO: Financial Sentiment Analysis for Algorithmic Trading through   Preference Optimization of LLMs"**, Giorgos Iacovides, Wuyang Zhou et al.. [Paper](http://arxiv.org/abs/2507.18417v1)
 * **"Comparing Normalization Methods for Portfolio Optimization with   Reinforcement Learning"**, Caio de Souza Barbosa Costa, Anna Helena Reali Costa. [Paper](http://arxiv.org/abs/2508.03910v1)
 * **"Accelerated Portfolio Optimization and Option Pricing with Reinforcement   Learning"**, Hadi Keramati, Samaneh Jazayeri. [Paper](http://arxiv.org/abs/2507.01972v1)
