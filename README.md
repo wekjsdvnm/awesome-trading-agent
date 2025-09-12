@@ -27,7 +27,6 @@
 * **"From MAS to MARS: Coordination Failures and Reasoning Trade-offs in   Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario"**, Yuanchen Bai, Zijian Ding et al.. [Paper](http://arxiv.org/abs/2508.04691v1)
 * **"Learned LSM-trees: Two Approaches Using Learned Bloom Filters"**, Nicholas Fidalgo, Puyuan Ye. [Paper](http://arxiv.org/abs/2508.00882v1)
 * **"Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep   Learning Compiler Techniques"**, Yiqi Liu, Yuqi Xue et al.. [Paper](http://arxiv.org/abs/2507.11506v1)
-* **"End-to-End Large Portfolio Optimization for Variance Minimization with   Neural Networks through Covariance Cleaning"**, Christian Bongiorno, Efstratios Manolakis et al.. [Paper](http://arxiv.org/abs/2507.01918v2)
 ### System Paper
 * **"FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI   Research and Deployment"**, Wentao Zhang, Yilei Zhao et al.. [Github](https://github.com/DVampire/FinWorld) | [Paper](http://arxiv.org/abs/2508.02292v1)
 ### Portfolio & Allocation Agents
@@ -65,6 +64,7 @@
 * **"Cursed Equilibria and Knightian Uncertainty in a Trading Game"**, Jurek Preker. [Paper](http://arxiv.org/abs/2506.10663v1)
 * **"Solving Pasur Using GPU-Accelerated Counterfactual Regret Minimization"**, Sina Baghal. [Paper](http://arxiv.org/abs/2508.06559v1)
 * **"An Explainable Equity-Aware P2P Energy Trading Framework for   Socio-Economically Diverse Microgrid"**, Abhijan Theja, Mayukha Pal. [Paper](http://arxiv.org/abs/2507.18738v1)
+* **"End-to-End Large Portfolio Optimization for Variance Minimization with   Neural Networks through Covariance Cleaning"**, Christian Bongiorno, Efstratios Manolakis et al.. [Paper](http://arxiv.org/abs/2507.01918v2)
 
 ### Prediction & Signals
 * **"Kronos: A Foundation Model for the Language of Financial Markets"**, Yu Shi, Zongliang Fu et al.. [Github](https://github.com/shiyu-coder/Kronos.) | [Paper](http://arxiv.org/abs/2508.02739v1)
