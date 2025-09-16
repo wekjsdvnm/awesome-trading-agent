@@ -6,7 +6,6 @@
 * **"Directly Learning Stock Trading Strategies Through Profit Guided Loss   Functions"**, Devroop Kar, Zimeng Lyu et al.. [Paper](http://arxiv.org/abs/2507.19639v1)
 * **"Multi-objective Portfolio Optimization Via Gradient Descent"**, Christian Oliva, Pedro R. Ventura et al.. [Paper](http://arxiv.org/abs/2507.16717v1)
 * **"A Serverless Architecture for Real-Time Stock Analysis using Large   Language Models: An Iterative Development and Debugging Case Study"**, Taniv Ashraf. [Paper](http://arxiv.org/abs/2507.09583v1)
-* **"Rethinking Data Protection in the (Generative) Artificial Intelligence   Era"**, Yiming Li, Shuo Shao et al.. [Paper](http://arxiv.org/abs/2507.03034v3)
 * **"Integrating Large Language Models in Financial Investments and Market   Analysis: A Survey"**, Sedigheh Mahdavi, Jiating et al.. [Paper](http://arxiv.org/abs/2507.01990v1)
 * **"CompLeak: Deep Learning Model Compression Exacerbates Privacy Leakage"**, Na Li, Yansong Gao et al.. [Paper](http://arxiv.org/abs/2507.16872v1)
 
