@@ -11,9 +11,9 @@
 ### Trading & LLM-based Agents
 * **"TradingGroup: A Multi-Agent Trading System with Self-Reflection and Data-Synthesis"** [Paper](https://arxiv.org/pdf/2508.17565)
 * **"SOCIODOJO: BUILDING LIFELONG ANALYTICAL AGENTS WITH REAL-WORLD TEXT AND TIME SERIES"** [Github](https://github.com/chengjunyan1/SocioDojo) |[Paper](https://openreview.net/forum?id=s9z0HzWJJp)
-* * **A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
+* **"A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading"** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
 * **TradingAgents: Multi-Agents LLM Financial Trading Framework** [Github](https://arxiv.org/abs/2412.20138) | [Paper](https://github.com/TauricResearch/TradingAgents)
-* **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Paper](http://arxiv.org/abs/2507.09255v1)
+* **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Github](https://github.com/harrypapa2002/StockSim)[Paper](http://arxiv.org/abs/2507.09255v1)
 * **"NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM"**, Yuanzheng Niu, Xiaoqi Li et al.. [Paper](http://arxiv.org/abs/2508.01351v1)
 * **"ByteGen: A Tokenizer-Free Generative Model for Orderbook Events in Byte   Space"**, Yang Li, Zhi Chen. [Paper](http://arxiv.org/abs/2508.02247v2)
 * **"Order Book Filtration and Directional Signal Extraction at High   Frequency"**, Aditya Nittur Anantha, Shashi Jain et al.. [Paper](http://arxiv.org/abs/2507.22712v1)
