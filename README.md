@@ -7,62 +7,61 @@
 * **"Multi-objective Portfolio Optimization Via Gradient Descent"**, Christian Oliva, Pedro R. Ventura et al.. [Paper](http://arxiv.org/abs/2507.16717v1)
 * **"A Serverless Architecture for Real-Time Stock Analysis using Large   Language Models: An Iterative Development and Debugging Case Study"**, Taniv Ashraf. [Paper](http://arxiv.org/abs/2507.09583v1)
 * **"Integrating Large Language Models in Financial Investments and Market   Analysis: A Survey"**, Sedigheh Mahdavi, Jiating et al.. [Paper](http://arxiv.org/abs/2507.01990v1)
-
+* **"FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment"**, Wentao Zhang, Yilei Zhao et al.. [Github](https://github.com/DVampire/FinWorld) | [Paper](http://arxiv.org/abs/2508.02292v1)
+  
 ### Trading & LLM-based Agents
 * **"TradingGroup: A Multi-Agent Trading System with Self-Reflection and Data-Synthesis"** [Paper](https://arxiv.org/pdf/2508.17565)
-* **"SOCIODOJO: BUILDING LIFELONG ANALYTICAL AGENTS WITH REAL-WORLD TEXT AND TIME SERIES"** [Github](https://github.com/chengjunyan1/SocioDojo) |[Paper](https://openreview.net/forum?id=s9z0HzWJJp)
 * **"A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading"** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
 * **TradingAgents: Multi-Agents LLM Financial Trading Framework** [Github](https://arxiv.org/abs/2412.20138) | [Paper](https://github.com/TauricResearch/TradingAgents)
-* **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Github](https://github.com/harrypapa2002/StockSim) | [Paper](http://arxiv.org/abs/2507.09255v1)
-* **"NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM"**, Yuanzheng Niu, Xiaoqi Li et al.. [Paper](http://arxiv.org/abs/2508.01351v1)
-* **"ByteGen: A Tokenizer-Free Generative Model for Orderbook Events in Byte   Space"**, Yang Li, Zhi Chen. [Paper](http://arxiv.org/abs/2508.02247v2)
 * **"Order Book Filtration and Directional Signal Extraction at High   Frequency"**, Aditya Nittur Anantha, Shashi Jain et al.. [Paper](http://arxiv.org/abs/2507.22712v1)
 * **"LLM-Enhanced Multi-Agent Reinforcement Learning with Expert Workflow for   Real-Time P2P Energy Trading"**, Chengwei Lou, Zekai Jin et al.. [Paper](http://arxiv.org/abs/2507.14995v1)
 * **"AI Agent Architecture for Decentralized Trading of Alternative Assets"**, Ailiya Borjigin, Cong He et al.. [Paper](http://arxiv.org/abs/2507.11117v1)
-* **"FlowOE: Imitation Learning with Flow Policy from Ensemble RL Experts for   Optimal Execution under Heston Volatility and Concave Market Impacts"**, Yang Li, Zhi Chen. [Paper](http://arxiv.org/abs/2506.05755v1)
-* **"Market Making Strategies with Reinforcement Learning"**, Óscar Fernández Vicente. [Paper](http://arxiv.org/abs/2507.18680v1)
-* **"Reinforcement Learning for Trade Execution with Market Impact"**, Patrick Cheridito, Moritz Weiss. [Paper](http://arxiv.org/abs/2507.06345v1)
-* **"From MAS to MARS: Coordination Failures and Reasoning Trade-offs in   Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario"**, Yuanchen Bai, Zijian Ding et al.. [Paper](http://arxiv.org/abs/2508.04691v1)
-* **"Learned LSM-trees: Two Approaches Using Learned Bloom Filters"**, Nicholas Fidalgo, Puyuan Ye. [Paper](http://arxiv.org/abs/2508.00882v1)
-* **"Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep   Learning Compiler Techniques"**, Yiqi Liu, Yuqi Xue et al.. [Paper](http://arxiv.org/abs/2507.11506v1)
-### System Paper
-* **"FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI   Research and Deployment"**, Wentao Zhang, Yilei Zhao et al.. [Github](https://github.com/DVampire/FinWorld) | [Paper](http://arxiv.org/abs/2508.02292v1)
-### Portfolio & Allocation Agents
-* **"EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization   Using Large Language Models"**, Haochen Luo, Yuan Zhang et al.. [Paper](http://arxiv.org/abs/2507.17211v1)
+* **"SOCIODOJO: BUILDING LIFELONG ANALYTICAL AGENTS WITH REAL-WORLD TEXT AND TIME SERIES"** [Github](https://github.com/chengjunyan1/SocioDojo) |[Paper](https://openreview.net/forum?id=s9z0HzWJJp)
+* **"EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization  Using Large Language Models"**, Haochen Luo, Yuan Zhang et al.. [Paper](http://arxiv.org/abs/2507.17211v1)
 * **"FinDPO: Financial Sentiment Analysis for Algorithmic Trading through   Preference Optimization of LLMs"**, Giorgos Iacovides, Wuyang Zhou et al.. [Paper](http://arxiv.org/abs/2507.18417v1)
-* **"Comparing Normalization Methods for Portfolio Optimization with   Reinforcement Learning"**, Caio de Souza Barbosa Costa, Anna Helena Reali Costa. [Paper](http://arxiv.org/abs/2508.03910v1)
-* **"Accelerated Portfolio Optimization and Option Pricing with Reinforcement   Learning"**, Hadi Keramati, Samaneh Jazayeri. [Paper](http://arxiv.org/abs/2507.01972v1)
 * **"AlphaAgents: Large Language Model based Multi-Agents for Equity   Portfolio Constructions"**, Tianjiao Zhao, Jingrao Lyu et al.. [Paper](http://arxiv.org/abs/2508.11152v1)
-* **"Equilibrium Strategies for the N-agent Mean-Variance Investment Problem   over a Random Horizon"**, Xiaoqing Liang, Jie Xiong et al.. [Paper](http://arxiv.org/abs/2507.04611v1)
-* **"Optimization Method of Multi-factor Investment Model Driven by Deep   Learning for Risk Control"**, Ruisi Li, Xinhui Gu. [Paper](http://arxiv.org/abs/2507.00332v1)
-* **"Uncertainty-Aware Strategies: A Model-Agnostic Framework for Robust   Financial Optimization through Subsampling"**, Hans Buehler, Blanka Horvath et al.. [Paper](http://arxiv.org/abs/2506.07299v1)
-* **"Indefinite Linear-Quadratic Partially Observed Mean-Field Game"**, Tian Chen, Tianyang Nie et al.. [Paper](http://arxiv.org/abs/2508.01568v1)
-* **"Binarizing Physics-Inspired GNNs for Combinatorial Optimization"**, Martin Krutský, Gustav Šír et al.. [Paper](http://arxiv.org/abs/2507.13703v2)
-* **"AI Human Impact: Toward a Model for Ethical Investing in AI-Intensive   Companies"**, James Brusseau. [Paper](http://arxiv.org/abs/2507.07703v1)
-* **"Large-scale portfolio optimization with variational neural annealing"**, Nishan Ranabhat, Behnam Javanparast et al.. [Paper](http://arxiv.org/abs/2507.07159v1)
-* **"The Hybrid Renewable Energy Forecasting and Trading Competition 2024"**, Jethro Browell, Dennis van der Meer et al.. [Paper](http://arxiv.org/abs/2507.01579v1)
-* **"Decentralised Multi-Manager Fund Framework"**, Arman Abgaryan, Utkarsh Sharma et al.. [Paper](http://arxiv.org/abs/2507.00978v1)
-
-### Multi-Agent Markets & Mechanisms
 * **MASS: Multi-Agent Simulation Scaling for Portfolio Construction** [Github](https://github.com/gta0804/MASS) | [Paper](https://arxiv.org/abs/2505.10278)
-* **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** [Github](https://github.com/TobyYang7/TwinMarket)|[Paper](https://openreview.net/pdf?id=CoTAytuDz1)
-* **INTEGRATING LLM-GENERATED VIEWS  INTO MEAN-VARIANCE OPTIMIZATION  USING THE BLACK-LITTERMAN MODEL**[GFithub](https://github.com/youngandbin/LLM-MVO-BLM) |[Paper](https://iclr.cc/virtual/2025/33834)
 * **FINMEM: A PERFORMANCE-ENHANCED LLM TRADING AGENT WITH**  [Github](https://github.com/pipiku915/FinMem-LLM-StockTrading/) | [Paper](https://arxiv.org/abs/2311.13743)
+* **INTEGRATING LLM-GENERATED VIEWS  INTO MEAN-VARIANCE OPTIMIZATION  USING THE BLACK-LITTERMAN MODEL**[Github](https://github.com/youngandbin/LLM-MVO-BLM) |[Paper](https://arxiv.org/pdf/2504.14345))
 * **A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist** [Paper](https://arxiv.org/abs/2402.18485)
 * **FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making** [Github](https://github.com/The-FinAI/FinCon) |[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)
 * **Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains** [Github](https://github.com/Hyalinesky/Domaino1s) |[Paper](https://arxiv.org/abs/2501.14431)
-* **"ContestTrade: A Multi-Agent Trading System Based on Internal Contest   Mechanism"**, Li Zhao, Rui Sun et al.. [Github](https://github.com/FinStep-AI/ContestTrade.) | [Paper](http://arxiv.org/abs/2508.00554v2)
+* **"ContestTrade: A Multi-Agent Trading System Based on Internal Contest  Mechanism"**, Li Zhao, Rui Sun et al.. [Github](https://github.com/FinStep-AI/ContestTrade.) | [Paper](http://arxiv.org/abs/2508.00554v2)
+
+  
+### Hybrid and Emerging Approaches & Reinforcement Learning and Strategy Optimization
+* **"ByteGen: A Tokenizer-Free Generative Model for Orderbook Events in Byte   Space"**, Yang Li, Zhi Chen. [Paper](http://arxiv.org/abs/2508.02247v2)
+* **"The Hybrid Renewable Energy Forecasting and Trading Competition 2024"**, Jethro Browell, Dennis van der Meer et al.. [Paper](http://arxiv.org/abs/2507.01579v1)
+* **"Market Making Strategies with Reinforcement Learning"**, Óscar Fernández Vicente. [Paper](http://arxiv.org/abs/2507.18680v1)
+* **"Reinforcement Learning for Trade Execution with Market Impact"**, Patrick Cheridito, Moritz Weiss. [Paper](http://arxiv.org/abs/2507.06345v1)
+* **"FlowOE: Imitation Learning with Flow Policy from Ensemble RL Experts for   Optimal Execution under Heston Volatility and Concave Market Impacts"**, Yang Li, Zhi Chen. [Paper]
+* **"Comparing Normalization Methods for Portfolio Optimization with Reinforcement Learning"**, Caio de Souza Barbosa Costa, Anna Helena Reali Costa. [Paper](http://arxiv.org/abs/2508.03910v1)
+* **"Accelerated Portfolio Optimization and Option Pricing with Reinforcement Learning"**, Hadi Keramati, Samaneh Jazayeri. [Paper](http://arxiv.org/abs/2507.01972v1)
+* **"FairMarket-RL: LLM-Guided Fairness Shaping for Multi-Agent Reinforcement   Learning in Peer-to-Peer Markets"**, Shrenik Jadhav, Birva Sevak et al.. [Paper](http://arxiv.org/abs/2506.22708v1)
+
+
+### Machine Learning & Deep Learning Approaches
+* **"Optimization Method of Multi-factor Investment Model Driven by Deep   Learning for Risk Control"**, Ruisi Li, Xinhui Gu. [Paper](http://arxiv.org/abs/2507.00332v1)
+* **"Uncertainty-Aware Strategies: A Model-Agnostic Framework for Robust Financial Optimization through Subsampling"**, Hans Buehler, Blanka Horvath et al.. [Paper](http://arxiv.org/abs/2506.07299v1)
+* **"Large-scale portfolio optimization with variational neural annealing"**, Nishan Ranabhat, Behnam Javanparast et al.. [Paper](http://arxiv.org/abs/2507.07159v1)
+* **"End-to-End Large Portfolio Optimization for Variance Minimization with   Neural Networks through Covariance Cleaning"**, Christian Bongiorno, Efstratios Manolakis et al.. [Paper](http://arxiv.org/abs/2507.01918v2)
+
+  
+### LLM for Market Simulation & Socio-economic Modeling
+* **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Github](https://github.com/harrypapa2002/StockSim) | [Paper](http://arxiv.org/abs/2507.09255v1)
+* **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** [Github](https://github.com/TobyYang7/TwinMarket)|[Paper](https://openreview.net/pdf?id=CoTAytuDz1)
+
+### Multi-Agent Markets & Mechanisms
 * **"TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit"**, Paulo Salem, Robert Sim et al.. [Github](https://github.com/microsoft/tinytroupe.) | [Paper](http://arxiv.org/abs/2507.09788v1)
 * **"MountainLion: A Multi-Modal LLM-Based Agent System for Interpretable and   Adaptive Financial Trading"**, Siyi Wu, Zhaoyang Guan et al.. [Paper](http://arxiv.org/abs/2507.20474v1)
 * **"MASCA: LLM based-Multi Agents System for Credit Assessment"**, Gautam Jajoo, Pranjal A Chitale et al.. [Paper](http://arxiv.org/abs/2507.22758v1)
 * **"AI-Governed Agent Architecture for Web-Trustworthy Tokenization of   Alternative Assets"**, Ailiya Borjigin, Wei Zhou et al.. [Paper](http://arxiv.org/abs/2507.00096v1)
 * **"Using Large Language Models to Simulate Human Behavioural Experiments:   Port of Mars"**, Oliver Slumbers, Joel Z. Leibo et al.. [Paper](http://arxiv.org/abs/2506.05555v1)
 * **"VAE-GAN Based Price Manipulation in Coordinated Local Energy Markets"**, Biswarup Mukherjee, Li Zhou et al.. [Paper](http://arxiv.org/abs/2507.19844v1)
-* **"FairMarket-RL: LLM-Guided Fairness Shaping for Multi-Agent Reinforcement   Learning in Peer-to-Peer Markets"**, Shrenik Jadhav, Birva Sevak et al.. [Paper](http://arxiv.org/abs/2506.22708v1)
 * **"Cursed Equilibria and Knightian Uncertainty in a Trading Game"**, Jurek Preker. [Paper](http://arxiv.org/abs/2506.10663v1)
 * **"Solving Pasur Using GPU-Accelerated Counterfactual Regret Minimization"**, Sina Baghal. [Paper](http://arxiv.org/abs/2508.06559v1)
-* **"An Explainable Equity-Aware P2P Energy Trading Framework for   Socio-Economically Diverse Microgrid"**, Abhijan Theja, Mayukha Pal. [Paper](http://arxiv.org/abs/2507.18738v1)
-* **"End-to-End Large Portfolio Optimization for Variance Minimization with   Neural Networks through Covariance Cleaning"**, Christian Bongiorno, Efstratios Manolakis et al.. [Paper](http://arxiv.org/abs/2507.01918v2)
+* **"An Explainable Equity-Aware P2P Energy Trading Framework for Socio-Economically Diverse Microgrid"**, Abhijan Theja, Mayukha Pal. [Paper](http://arxiv.org/abs/2507.18738v1)
+
 
 ### Prediction & Signals
 * **"Kronos: A Foundation Model for the Language of Financial Markets"**, Yu Shi, Zongliang Fu et al.. [Github](https://github.com/shiyu-coder/Kronos.) | [Paper](http://arxiv.org/abs/2508.02739v1)
