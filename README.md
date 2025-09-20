@@ -11,7 +11,6 @@
   
 ### Trading & LLM-based Agents
 * **"TradingGroup: A Multi-Agent Trading System with Self-Reflection and Data-Synthesis"** [Paper](https://arxiv.org/pdf/2508.17565)
-* **"A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading"** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
 * **TradingAgents: Multi-Agents LLM Financial Trading Framework** [Github](https://arxiv.org/abs/2412.20138) | [Paper](https://github.com/TauricResearch/TradingAgents)
 * **"Order Book Filtration and Directional Signal Extraction at High   Frequency"**, Aditya Nittur Anantha, Shashi Jain et al.. [Paper](http://arxiv.org/abs/2507.22712v1)
 * **"LLM-Enhanced Multi-Agent Reinforcement Learning with Expert Workflow for   Real-Time P2P Energy Trading"**, Chengwei Lou, Zekai Jin et al.. [Paper](http://arxiv.org/abs/2507.14995v1)
@@ -27,9 +26,29 @@
 * **FINCON: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making** [Github](https://github.com/The-FinAI/FinCon) |[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)
 * **Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains** [Github](https://github.com/Hyalinesky/Domaino1s) |[Paper](https://arxiv.org/abs/2501.14431)
 * **"ContestTrade: A Multi-Agent Trading System Based on Internal Contest  Mechanism"**, Li Zhao, Rui Sun et al.. [Github](https://github.com/FinStep-AI/ContestTrade.) | [Paper](http://arxiv.org/abs/2508.00554v2)
+* **"Event-Aware Sentiment Factors from LLM-Augmented Financial Tweets: A   Transparent Framework for Interpretable Quant Trading"**, Yueyi Wang, Qiyao Wei. [Paper](http://arxiv.org/abs/2508.07408v1)
+* **"FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for   Financial Decision-Making"**, Jiaxiang Chen, Mingxi Zou et al.. [Paper](http://arxiv.org/abs/2506.09080v1)
+* **"ElliottAgents: A Natural Language-Driven Multi-Agent System for Stock   Market Analysis and Prediction"**, Jarosław A. Chudziak, Michał Wawer. [Paper](http://arxiv.org/abs/2507.03435v1)
+* **"Your AI, Not Your View: The Bias of LLMs in Investment Analysis"**, Hoyoung Lee, Junhyuk Seo et al.. [Paper](http://arxiv.org/abs/2507.20957v2)
 
-  
+### Cryptocurrency Trading & LLM-based Agents
+* **"A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading"** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
+* **"MountainLion: A Multi-Modal LLM-Based Agent System for Interpretable and   Adaptive Financial Trading"**, Siyi Wu, Zhaoyang Guan et al.. [Paper](http://arxiv.org/abs/2507.20474v1)
+
+ ### Prediction & LLM-based Agents
+* **"MASCA: LLM based-Multi Agents System for Credit Assessment"**, Gautam Jajoo, Pranjal A Chitale et al.. [Paper](http://arxiv.org/abs/2507.22758v1)
+* **LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction** [Paper](https://arxiv.org/abs/2505.02880)
+
+ ### LLM for Market Simulation & Socio-economic Modeling
+* **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Github](https://github.com/harrypapa2002/StockSim) | [Paper](http://arxiv.org/abs/2507.09255v1)
+* **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** [Github](https://github.com/TobyYang7/TwinMarket)|[Paper](https://openreview.net/pdf?id=CoTAytuDz1)
+* **"Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha  Mining in Quantitative Trading"**, Lang Cao, Zekun Xi et al.. [Paper](http://arxiv.org/abs/2508.06312v1)
+* **"Modeling Human Responses to Multimodal AI Content"**, Zhiqi Shen, Shaojing Fan et al.. [Paper](http://arxiv.org/abs/2508.10769v1)
+* **"Does Overnight News Explain Overnight Returns?"**, Paul Glasserman, Kriste Krstovski et al.. [Paper](http://arxiv.org/abs/2507.04481v1)
+
 ### Hybrid and Emerging Approaches & Reinforcement Learning and Strategy Optimization
+* **"Optimizing Day-Ahead Energy Trading with Proximal Policy Optimization   and Blockchain"**, Navneet Verma, Ying Xie. [Paper](http://arxiv.org/abs/2508.01888v1)
+* **"Learning Explainable Stock Predictions with Tweets Using Mixture of   Experts"**, Wenyan Xu, Dawei Xiang et al.. [Paper](http://arxiv.org/abs/2507.20535v1)
 * **"ByteGen: A Tokenizer-Free Generative Model for Orderbook Events in Byte   Space"**, Yang Li, Zhi Chen. [Paper](http://arxiv.org/abs/2508.02247v2)
 * **"The Hybrid Renewable Energy Forecasting and Trading Competition 2024"**, Jethro Browell, Dennis van der Meer et al.. [Paper](http://arxiv.org/abs/2507.01579v1)
 * **"Market Making Strategies with Reinforcement Learning"**, Óscar Fernández Vicente. [Paper](http://arxiv.org/abs/2507.18680v1)
@@ -38,63 +57,55 @@
 * **"Comparing Normalization Methods for Portfolio Optimization with Reinforcement Learning"**, Caio de Souza Barbosa Costa, Anna Helena Reali Costa. [Paper](http://arxiv.org/abs/2508.03910v1)
 * **"Accelerated Portfolio Optimization and Option Pricing with Reinforcement Learning"**, Hadi Keramati, Samaneh Jazayeri. [Paper](http://arxiv.org/abs/2507.01972v1)
 * **"FairMarket-RL: LLM-Guided Fairness Shaping for Multi-Agent Reinforcement   Learning in Peer-to-Peer Markets"**, Shrenik Jadhav, Birva Sevak et al.. [Paper](http://arxiv.org/abs/2506.22708v1)
+* **"VAE-GAN Based Price Manipulation in Coordinated Local Energy Markets"**, Biswarup Mukherjee, Li Zhou et al.. [Paper](http://arxiv.org/abs/2507.19844v1)
+* **"Quantum Reinforcement Learning Trading Agent for Sector Rotation in the   Taiwan Stock Market"**, Chi-Sheng Chen, Xinyu Zhang et al.. [Paper](http://arxiv.org/abs/2506.20930v1)
+* **"Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading   with Multi-Agent Reinforcement Learning"**, Mian Ibad Ali Shah, Enda Barrett et al.. [Paper](http://arxiv.org/abs/2507.16796v1)
+* **"Probabilistic and reinforced mining of association rules"**, Yongchao Huang. [Paper](http://arxiv.org/abs/2506.18155v1)
+* **"Integrating Traditional Technical Analysis with AI: A Multi-Agent   LLM-Based Approach to Stock Market Forecasting"**, Michał Wawer, Jarosław A. Chudziak. [Paper](http://arxiv.org/abs/2506.16813v1)
+* **"FinMarBa: A Market-Informed Dataset for Financial Sentiment   Classification"**, Baptiste Lefort, Eric Benhamou et al.. [Paper](http://arxiv.org/abs/2507.22932v1)
+* **"HARLF: Hierarchical Reinforcement Learning and Lightweight LLM-Driven   Sentiment Integration for Financial Portfolio Optimization"**, Benjamin Coriat, Eric Benhamou. [Paper](http://arxiv.org/abs/2507.18560v1)
 
 
-### Machine Learning & Deep Learning Approaches
+### Other Agent
+* **"AI-Governed Agent Architecture for Web-Trustworthy Tokenization of   Alternative Assets"**, Ailiya Borjigin, Wei Zhou et al.. [Paper](http://arxiv.org/abs/2507.00096v1)
+* **"Using Large Language Models to Simulate Human Behavioural Experiments:   Port of Mars"**, Oliver Slumbers, Joel Z. Leibo et al.. [Paper](http://arxiv.org/abs/2506.05555v1)
+* **"Secure Energy Transactions Using Blockchain Leveraging AI for Fraud   Detection and Energy Market Stability"**, Md Asif Ul Hoq Khan, MD Zahedul Islam et al.. [Paper](http://arxiv.org/abs/2506.19870v1)
+  
+
+### Trading & Machine Learning & Deep Learning Approaches
 * **"Optimization Method of Multi-factor Investment Model Driven by Deep   Learning for Risk Control"**, Ruisi Li, Xinhui Gu. [Paper](http://arxiv.org/abs/2507.00332v1)
 * **"Uncertainty-Aware Strategies: A Model-Agnostic Framework for Robust Financial Optimization through Subsampling"**, Hans Buehler, Blanka Horvath et al.. [Paper](http://arxiv.org/abs/2506.07299v1)
 * **"Large-scale portfolio optimization with variational neural annealing"**, Nishan Ranabhat, Behnam Javanparast et al.. [Paper](http://arxiv.org/abs/2507.07159v1)
 * **"End-to-End Large Portfolio Optimization for Variance Minimization with   Neural Networks through Covariance Cleaning"**, Christian Bongiorno, Efstratios Manolakis et al.. [Paper](http://arxiv.org/abs/2507.01918v2)
+* **"Machine Learning Based Stress Testing Framework for Indian Financial   Market Portfolios"**, Vidya Sagar G, Shifat Ali et al.. [Paper](http://arxiv.org/abs/2507.02011v1)
+* **"Binary Tree Option Pricing Under Market Microstructure Effects: A Random   Forest Approach"**, Akash Deep, Chris Monico et al.. [Paper](http://arxiv.org/abs/2507.16701v1)
+* **"Building crypto portfolios with agentic AI"**, Antonino Castelli, Paolo Giudici et al.. [Paper](http://arxiv.org/abs/2507.20468v1)
+* **"To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk   Improves Trading Decisions"**, Dimitrios Emmanoulopoulos, Ollie Olby et al.. [Paper](http://arxiv.org/abs/2507.08584v1)
+* **"RicciFlowRec: A Geometric Root Cause Recommender Using Ricci Curvature   on Financial Graphs"**, Zhongtian Sun, Anoushka Harit. [Paper](http://arxiv.org/abs/2508.09334v1)
+* **"A Comparative Analysis of Statistical and Machine Learning Models for   Outlier Detection in Bitcoin Limit Order Books"**, Ivan Letteri. [Paper](http://arxiv.org/abs/2507.14960v1)
 
   
-### LLM for Market Simulation & Socio-economic Modeling
-* **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Github](https://github.com/harrypapa2002/StockSim) | [Paper](http://arxiv.org/abs/2507.09255v1)
-* **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** [Github](https://github.com/TobyYang7/TwinMarket)|[Paper](https://openreview.net/pdf?id=CoTAytuDz1)
 
-### Multi-Agent Markets & Mechanisms
-* **"TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit"**, Paulo Salem, Robert Sim et al.. [Github](https://github.com/microsoft/tinytroupe.) | [Paper](http://arxiv.org/abs/2507.09788v1)
-* **"MountainLion: A Multi-Modal LLM-Based Agent System for Interpretable and   Adaptive Financial Trading"**, Siyi Wu, Zhaoyang Guan et al.. [Paper](http://arxiv.org/abs/2507.20474v1)
-* **"MASCA: LLM based-Multi Agents System for Credit Assessment"**, Gautam Jajoo, Pranjal A Chitale et al.. [Paper](http://arxiv.org/abs/2507.22758v1)
-* **"AI-Governed Agent Architecture for Web-Trustworthy Tokenization of   Alternative Assets"**, Ailiya Borjigin, Wei Zhou et al.. [Paper](http://arxiv.org/abs/2507.00096v1)
-* **"Using Large Language Models to Simulate Human Behavioural Experiments:   Port of Mars"**, Oliver Slumbers, Joel Z. Leibo et al.. [Paper](http://arxiv.org/abs/2506.05555v1)
-* **"VAE-GAN Based Price Manipulation in Coordinated Local Energy Markets"**, Biswarup Mukherjee, Li Zhou et al.. [Paper](http://arxiv.org/abs/2507.19844v1)
-* **"Cursed Equilibria and Knightian Uncertainty in a Trading Game"**, Jurek Preker. [Paper](http://arxiv.org/abs/2506.10663v1)
-* **"Solving Pasur Using GPU-Accelerated Counterfactual Regret Minimization"**, Sina Baghal. [Paper](http://arxiv.org/abs/2508.06559v1)
-* **"An Explainable Equity-Aware P2P Energy Trading Framework for Socio-Economically Diverse Microgrid"**, Abhijan Theja, Mayukha Pal. [Paper](http://arxiv.org/abs/2507.18738v1)
-
-
-### Prediction & Signals
+### Prediction  & Machine Learning & Deep Learning Approaches
+* **"FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series   Analysis"**, Wenyan Xu, Dawei Xiang et al.. [Paper](http://arxiv.org/abs/2506.05019v1)
 * **"Kronos: A Foundation Model for the Language of Financial Markets"**, Yu Shi, Zongliang Fu et al.. [Github](https://github.com/shiyu-coder/Kronos.) | [Paper](http://arxiv.org/abs/2508.02739v1)
-* **"Interpreting Fedspeak with Confidence: A LLM-Based Uncertainty-Aware   Framework Guided by Monetary Policy Transmission Paths"**, Rui Yao, Qi Chai et al.. [Paper](http://arxiv.org/abs/2508.08001v2)
-* **"Event-Aware Sentiment Factors from LLM-Augmented Financial Tweets: A   Transparent Framework for Interpretable Quant Trading"**, Yueyi Wang, Qiyao Wei. [Paper](http://arxiv.org/abs/2508.07408v1)
-* **"TLCCSP: A Scalable Framework for Enhancing Time Series Forecasting with   Time-Lagged Cross-Correlations"**, Jianfei Wu, Wenmian Yang et al.. [Paper](http://arxiv.org/abs/2508.07016v1)
-* **"Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha   Mining in Quantitative Trading"**, Lang Cao, Zekun Xi et al.. [Paper](http://arxiv.org/abs/2508.06312v1)
-* **"FinKario: Event-Enhanced Automated Construction of Financial Knowledge   Graph"**, Xiang Li, Penglei Sun et al.. [Paper](http://arxiv.org/abs/2508.00961v1)
-* **"Learning Explainable Stock Predictions with Tweets Using Mixture of   Experts"**, Wenyan Xu, Dawei Xiang et al.. [Paper](http://arxiv.org/abs/2507.20535v1)
-* **"Artificial Finance: How AI Thinks About Money"**, Orhan Erdem, Ragavi Pobbathi Ashok. [Paper](http://arxiv.org/abs/2507.10933v1)
-* **"Machine Learning Based Stress Testing Framework for Indian Financial   Market Portfolios"**, Vidya Sagar G, Shifat Ali et al.. [Paper](http://arxiv.org/abs/2507.02011v1)
-* **"Quantum Reinforcement Learning Trading Agent for Sector Rotation in the   Taiwan Stock Market"**, Chi-Sheng Chen, Xinyu Zhang et al.. [Paper](http://arxiv.org/abs/2506.20930v1)
-* **"FinHEAR: Human Expertise and Adaptive Risk-Aware Temporal Reasoning for   Financial Decision-Making"**, Jiaxiang Chen, Mingxi Zou et al.. [Paper](http://arxiv.org/abs/2506.09080v1)
+* **"TLCCSP: A Scalable Framework for Enhancing Time Series Forecasting with  Time-Lagged Cross-Correlations"**, Jianfei Wu, Wenmian Yang et al.. [Paper](http://arxiv.org/abs/2508.07016v1)
+* **"Transformers Beyond Order: A Chaos-Markov-Gaussian Framework for   Short-Term Sentiment Forecasting of Any Financial OHLC timeseries Data"**, Arif Pathan. [Paper](http://arxiv.org/abs/2506.17244v1)
+* **"FinKario: Event-Enhanced Automated Construction of Financial Knowledge Graph"**, Xiang Li, Penglei Sun et al.. [Paper](http://arxiv.org/abs/2508.00961v1)
 * **"RegimeNAS: Regime-Aware Differentiable Architecture Search With   Theoretical Guarantees for Financial Trading"**, Prathamesh Devadiga, Yashmitha Shailesh. [Paper](http://arxiv.org/abs/2508.11338v1)
 * **"Sentiment-Aware Stock Price Prediction with Transformer and   LLM-Generated Formulaic Alpha"**, Qizhao Chen, Hiroaki Kawashima. [Paper](http://arxiv.org/abs/2508.04975v1)
-* **"FairPOT: Balancing AUC Performance and Fairness with Proportional   Optimal Transport"**, Pengxi Liu, Yi Shen et al.. [Paper](http://arxiv.org/abs/2508.03940v2)
 * **"FX-constrained growth: Fundamentalists, chartists and the dynamic   trade-multiplier"**, Marwil J. Davila-Fernandez, Serena Sordi. [Paper](http://arxiv.org/abs/2508.02252v1)
 * **"CTBench: Cryptocurrency Time Series Generation Benchmark"**, Yihao Ang, Qiang Wang et al.. [Paper](http://arxiv.org/abs/2508.02758v1)
 * **"Adaptive Market Intelligence: A Mixture of Experts Framework for   Volatility-Sensitive Stock Forecasting"**, Diego Vallarino. [Paper](http://arxiv.org/abs/2508.02686v1)
-* **"Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading   with Multi-Agent Reinforcement Learning"**, Mian Ibad Ali Shah, Enda Barrett et al.. [Paper](http://arxiv.org/abs/2507.16796v1)
-* **"Binary Tree Option Pricing Under Market Microstructure Effects: A Random   Forest Approach"**, Akash Deep, Chris Monico et al.. [Paper](http://arxiv.org/abs/2507.16701v1)
 * **"Optimal Empirical Risk Minimization under Temporal Distribution Shifts"**, Yujin Jeong, Ramesh Johari et al.. [Paper](http://arxiv.org/abs/2507.13287v1)
-* **"Building crypto portfolios with agentic AI"**, Antonino Castelli, Paolo Giudici et al.. [Paper](http://arxiv.org/abs/2507.20468v1)
 * **"EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock   Trend Classification"**, Zhuodong Jiang, Pengju Zhang et al.. [Paper](http://arxiv.org/abs/2507.08184v1)
 * **"FINN-GL: Generalized Mixed-Precision Extensions for FPGA-Accelerated   LSTMs"**, Shashwat Khandelwal, Jakoba Petri-Koenig et al.. [Paper](http://arxiv.org/abs/2506.20810v1)
 * **"Data-Driven Dynamic Factor Modeling via Manifold Learning"**, Graeme Baker, Agostino Capponi et al.. [Paper](http://arxiv.org/abs/2506.19945v1)
 * **"The Within-Orbit Adaptive Leapfrog No-U-Turn Sampler"**, Nawaf Bou-Rabee, Bob Carpenter et al.. [Paper](http://arxiv.org/abs/2506.18746v1)
-* **"Probabilistic and reinforced mining of association rules"**, Yongchao Huang. [Paper](http://arxiv.org/abs/2506.18155v1)
 * **"DeepSupp: Attention-Driven Correlation Pattern Analysis for Dynamic Time   Series Support and Resistance Levels Identification"**, Boris Kriuk, Logic Ng et al.. [Paper](http://arxiv.org/abs/2507.01971v1)
-* **"Integrating Traditional Technical Analysis with AI: A Multi-Agent   LLM-Based Approach to Stock Market Forecasting"**, Michał Wawer, Jarosław A. Chudziak. [Paper](http://arxiv.org/abs/2506.16813v1)
+* 
 * **"FORTRESS: Frontier Risk Evaluation for National Security and Public   Safety"**, Christina Q. Knight, Kaustubh Deshpande et al.. [Paper](http://arxiv.org/abs/2506.14922v2)
 * **"Caterpillar GNN: Replacing Message Passing with Efficient Aggregation"**, Marek Černý. [Paper](http://arxiv.org/abs/2506.06784v1)
-* **"Transformers Beyond Order: A Chaos-Markov-Gaussian Framework for   Short-Term Sentiment Forecasting of Any Financial OHLC timeseries Data"**, Arif Pathan. [Paper](http://arxiv.org/abs/2506.17244v1)
 * **"Language Model Guided Reinforcement Learning in Quantitative Trading"**, Adam Darmanin, Vince Vella. [Paper](http://arxiv.org/abs/2508.02366v1)
 * **"MARS: A Meta-Adaptive Reinforcement Learning Framework for Risk-Aware   Multi-Agent Portfolio Management"**, Jiayi Chen, Jing Li et al.. [Paper](http://arxiv.org/abs/2508.01173v1)
 * **"Learning from Expert Factors: Trajectory-level Reward Shaping for   Formulaic Alpha Mining"**, Junjie Zhao, Chengxi Zhang et al.. [Paper](http://arxiv.org/abs/2507.20263v1)
@@ -126,35 +137,7 @@
 * **"Anticipating Bugs: Ticket-Level Bug Prediction and Temporal Proximity   Effects"**, Daniele La Prova, Emanuele Gentili et al.. [Paper](http://arxiv.org/abs/2506.14290v1)
 * **"Safety-Aware Reinforcement Learning for Control via Risk-Sensitive   Action-Value Iteration and Quantile Regression"**, Clinton Enwerem, Aniruddh G. Puranic et al.. [Paper](http://arxiv.org/abs/2506.06954v1)
 * **"When Better Features Mean Greater Risks: The Performance-Privacy   Trade-Off in Contrastive Learning"**, Ruining Sun, Hongsheng Hu et al.. [Github](https://github.com/SeroneySun/LpLA_code.) | [Paper](http://arxiv.org/abs/2506.05743v1)
-* **LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction** [Paper](https://arxiv.org/abs/2505.02880)
   
-### Data & Information for Finance
-* **"Modeling Human Responses to Multimodal AI Content"**, Zhiqi Shen, Shaojing Fan et al.. [Paper](http://arxiv.org/abs/2508.10769v1)
-* **"NEURAL: Attention-Guided Pruning for Unified Multimodal   Resource-Constrained Clinical Evaluation"**, Devvrat Joshi, Islem Rekik. [Github](https://github.com/basiralab/NEURAL.) | [Paper](http://arxiv.org/abs/2508.09715v1)
-* **"FinMarBa: A Market-Informed Dataset for Financial Sentiment   Classification"**, Baptiste Lefort, Eric Benhamou et al.. [Paper](http://arxiv.org/abs/2507.22932v1)
-* **"To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk   Improves Trading Decisions"**, Dimitrios Emmanoulopoulos, Ollie Olby et al.. [Paper](http://arxiv.org/abs/2507.08584v1)
-* **"FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series   Analysis"**, Wenyan Xu, Dawei Xiang et al.. [Paper](http://arxiv.org/abs/2506.05019v1)
-* **"HARLF: Hierarchical Reinforcement Learning and Lightweight LLM-Driven   Sentiment Integration for Financial Portfolio Optimization"**, Benjamin Coriat, Eric Benhamou. [Paper](http://arxiv.org/abs/2507.18560v1)
-* **"RicciFlowRec: A Geometric Root Cause Recommender Using Ricci Curvature   on Financial Graphs"**, Zhongtian Sun, Anoushka Harit. [Paper](http://arxiv.org/abs/2508.09334v1)
-* **"Does Overnight News Explain Overnight Returns?"**, Paul Glasserman, Kriste Krstovski et al.. [Paper](http://arxiv.org/abs/2507.04481v1)
-
-### Agent Methods & Frameworks (Finance-oriented)
-* **"Decision-Oriented Text Evaluation"**, Yu-Shiang Huang, Chuan-Ju Wang et al.. [Paper](http://arxiv.org/abs/2507.01923v2)
-* **"Agentic-AI based Mathematical Framework for Commercialization of Energy   Resilience in Electrical Distribution System Planning and Operation"**, Aniket Johri, Divyanshi Dwivedi et al.. [Paper](http://arxiv.org/abs/2508.04170v1)
-* **"Optimizing Day-Ahead Energy Trading with Proximal Policy Optimization   and Blockchain"**, Navneet Verma, Ying Xie. [Paper](http://arxiv.org/abs/2508.01888v1)
-* **"Your AI, Not Your View: The Bias of LLMs in Investment Analysis"**, Hoyoung Lee, Junhyuk Seo et al.. [Paper](http://arxiv.org/abs/2507.20957v2)
-* **"ElliottAgents: A Natural Language-Driven Multi-Agent System for Stock   Market Analysis and Prediction"**, Jarosław A. Chudziak, Michał Wawer. [Paper](http://arxiv.org/abs/2507.03435v1)
-* **"Deep learning four decades of human migration"**, Thomas Gaskin, Guy J. Abel. [Paper](http://arxiv.org/abs/2506.22821v2)
-* **"LLM-guided Chemical Process Optimization with a Multi-Agent Approach"**, Tong Zeng, Srivathsan Badrinarayanan et al.. [Paper](http://arxiv.org/abs/2506.20921v1)
-* **"Secure Energy Transactions Using Blockchain Leveraging AI for Fraud   Detection and Energy Market Stability"**, Md Asif Ul Hoq Khan, MD Zahedul Islam et al.. [Paper](http://arxiv.org/abs/2506.19870v1)
-* **"HeavyWater and SimplexWater: Watermarking Low-Entropy Text Distributions"**, Dor Tsur, Carol Xuan Long et al.. [Github](https://github.com/DorTsur/HeavyWater_SimplexWater) | [Paper](http://arxiv.org/abs/2506.06409v1)
-* **"Cascade: Token-Sharded Private LLM Inference"**, Rahul Thomas, Louai Zahran et al.. [Paper](http://arxiv.org/abs/2507.05228v1)
-
-### Applications & Case Studies
-* **"Diagrams-to-Dynamics (D2D): Exploring Causal Loop Diagram Leverage   Points under Uncertainty"**, Jeroen F. Uleman, Loes Crielaard et al.. [Paper](http://arxiv.org/abs/2508.05659v2)
-* **"A Language Model-Driven Semi-Supervised Ensemble Framework for Illicit   Market Detection Across Deep/Dark Web and Social Platforms"**, Navid Yazdanjue, Morteza Rakhshaninejad et al.. [Paper](http://arxiv.org/abs/2507.22912v1)
-* **"CASPER: Contrastive Approach for Smart Ponzi Scheme Detecter with More   Negative Samples"**, Weijia Yang, Tian Lan et al.. [Paper](http://arxiv.org/abs/2507.16840v1)
-* **"A Comparative Analysis of Statistical and Machine Learning Models for   Outlier Detection in Bitcoin Limit Order Books"**, Ivan Letteri. [Paper](http://arxiv.org/abs/2507.14960v1)
 
 ### Other
 * **"Inference-Aware Prompt Optimization for Aligning Black-Box Large   Language Models"**, Saaduddin Mahmud, Mason Nakamura et al.. [Paper](http://arxiv.org/abs/2508.10030v1)
