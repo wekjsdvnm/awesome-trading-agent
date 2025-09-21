@@ -44,18 +44,18 @@
 * **"A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading"** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
 * **"MountainLion: A Multi-Modal LLM-Based Agent System for Interpretable and   Adaptive Financial Trading"**, Siyi Wu, Zhaoyang Guan et al.. [Paper](http://arxiv.org/abs/2507.20474v1)
 
- ### Prediction & LLM-based Agents
+## Prediction & LLM-based Agents
 * **"MASCA: LLM based-Multi Agents System for Credit Assessment"**, Gautam Jajoo, Pranjal A Chitale et al.. [Paper](http://arxiv.org/abs/2507.22758v1)
 * **LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction** [Paper](https://arxiv.org/abs/2505.02880)
 
- ### LLM for Market Simulation & Socio-economic Modeling
+## LLM for Market Simulation & Socio-economic Modeling
 * **"StockSim: A Dual-Mode Order-Level Simulator for Evaluating Multi-Agent   LLMs in Financial Markets"**, Charidimos Papadakis, Giorgos Filandrianos et al.. [Github](https://github.com/harrypapa2002/StockSim) | [Paper](http://arxiv.org/abs/2507.09255v1)
 * **TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets** [Github](https://github.com/TobyYang7/TwinMarket)|[Paper](https://openreview.net/pdf?id=CoTAytuDz1)
 * **"Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha  Mining in Quantitative Trading"**, Lang Cao, Zekun Xi et al.. [Paper](http://arxiv.org/abs/2508.06312v1)
 * **"Modeling Human Responses to Multimodal AI Content"**, Zhiqi Shen, Shaojing Fan et al.. [Paper](http://arxiv.org/abs/2508.10769v1)
 * **"Does Overnight News Explain Overnight Returns?"**, Paul Glasserman, Kriste Krstovski et al.. [Paper](http://arxiv.org/abs/2507.04481v1)
 
-### Hybrid and Emerging Approaches & Reinforcement Learning and Strategy Optimization
+## Hybrid and Emerging Approaches & Reinforcement Learning and Strategy Optimization
 * **"Optimizing Day-Ahead Energy Trading with Proximal Policy Optimization   and Blockchain"**, Navneet Verma, Ying Xie. [Paper](http://arxiv.org/abs/2508.01888v1)
 * **"Learning Explainable Stock Predictions with Tweets Using Mixture of   Experts"**, Wenyan Xu, Dawei Xiang et al.. [Paper](http://arxiv.org/abs/2507.20535v1)
 * **"ByteGen: A Tokenizer-Free Generative Model for Orderbook Events in Byte   Space"**, Yang Li, Zhi Chen. [Paper](http://arxiv.org/abs/2508.02247v2)
@@ -75,13 +75,13 @@
 * **"HARLF: Hierarchical Reinforcement Learning and Lightweight LLM-Driven   Sentiment Integration for Financial Portfolio Optimization"**, Benjamin Coriat, Eric Benhamou. [Paper](http://arxiv.org/abs/2507.18560v1)
 
 
-### Other Agent
+## Other Agent
 * **"AI-Governed Agent Architecture for Web-Trustworthy Tokenization of   Alternative Assets"**, Ailiya Borjigin, Wei Zhou et al.. [Paper](http://arxiv.org/abs/2507.00096v1)
 * **"Using Large Language Models to Simulate Human Behavioural Experiments:   Port of Mars"**, Oliver Slumbers, Joel Z. Leibo et al.. [Paper](http://arxiv.org/abs/2506.05555v1)
 * **"Secure Energy Transactions Using Blockchain Leveraging AI for Fraud   Detection and Energy Market Stability"**, Md Asif Ul Hoq Khan, MD Zahedul Islam et al.. [Paper](http://arxiv.org/abs/2506.19870v1)
   
 
-### Trading & Machine Learning & Deep Learning Approaches
+## Trading & Machine Learning & Deep Learning Approaches
 * **"Optimization Method of Multi-factor Investment Model Driven by Deep   Learning for Risk Control"**, Ruisi Li, Xinhui Gu. [Paper](http://arxiv.org/abs/2507.00332v1)
 * **"Uncertainty-Aware Strategies: A Model-Agnostic Framework for Robust Financial Optimization through Subsampling"**, Hans Buehler, Blanka Horvath et al.. [Paper](http://arxiv.org/abs/2506.07299v1)
 * **"Large-scale portfolio optimization with variational neural annealing"**, Nishan Ranabhat, Behnam Javanparast et al.. [Paper](http://arxiv.org/abs/2507.07159v1)
@@ -95,7 +95,7 @@
 
   
 
-### Prediction  & Machine Learning & Deep Learning Approaches
+## Prediction  & Machine Learning & Deep Learning Approaches
 * **"FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series   Analysis"**, Wenyan Xu, Dawei Xiang et al.. [Paper](http://arxiv.org/abs/2506.05019v1)
 * **"Kronos: A Foundation Model for the Language of Financial Markets"**, Yu Shi, Zongliang Fu et al.. [Github](https://github.com/shiyu-coder/Kronos.) | [Paper](http://arxiv.org/abs/2508.02739v1)
 * **"TLCCSP: A Scalable Framework for Enhancing Time Series Forecasting with  Time-Lagged Cross-Correlations"**, Jianfei Wu, Wenmian Yang et al.. [Paper](http://arxiv.org/abs/2508.07016v1)
