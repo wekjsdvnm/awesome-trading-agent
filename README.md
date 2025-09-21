@@ -1,5 +1,6 @@
 # trading-agent-paper
 ### Surveys & Benchmarks
+[Surveys & Benchmarks](#Surveys & Benchmarks)
 * **"Assessing the Capabilities and Limitations of FinGPT Model in Financial   NLP Applications"**, Prudence Djagba, Chimezie A. Odinakachukwu. [Paper](http://arxiv.org/abs/2507.08015v1)
 * **"Benchmarking Pre-Trained Time Series Models for Electricity Price   Forecasting"**, Timothée Hornek Amir Sartipi, Igor Tchappi et al.. [Paper](http://arxiv.org/abs/2506.08113v1)
 * **"Assessing (im)balance in signed brain networks"**, Marzio Di Vece, Emanuele Agrimi et al.. [Paper](http://arxiv.org/abs/2508.00542v1)
