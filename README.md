@@ -73,6 +73,9 @@
 * **"Integrating Traditional Technical Analysis with AI: A Multi-Agent   LLM-Based Approach to Stock Market Forecasting"**, Michał Wawer, Jarosław A. Chudziak. [Paper](http://arxiv.org/abs/2506.16813v1)
 * **"FinMarBa: A Market-Informed Dataset for Financial Sentiment   Classification"**, Baptiste Lefort, Eric Benhamou et al.. [Paper](http://arxiv.org/abs/2507.22932v1)
 * **"HARLF: Hierarchical Reinforcement Learning and Lightweight LLM-Driven   Sentiment Integration for Financial Portfolio Optimization"**, Benjamin Coriat, Eric Benhamou. [Paper](http://arxiv.org/abs/2507.18560v1)
+* **"Language Model Guided Reinforcement Learning in Quantitative Trading"**, Adam Darmanin, Vince Vella. [Paper](http://arxiv.org/abs/2508.02366v1)
+* **"MARS: A Meta-Adaptive Reinforcement Learning Framework for Risk-Aware   Multi-Agent Portfolio Management"**, Jiayi Chen, Jing Li et al.. [Paper](http://arxiv.org/abs/2508.01173v1)
+* **"Quantum-Enhanced Reinforcement Learning with LSTM Forecasting Signals   for Optimizing Fintech Trading Decisions"**, Yen-Ku Liu, Yun-Huei Pan et al.. [Paper](http://arxiv.org/abs/2507.12835v1)
 
 
 ## Other Agent
@@ -92,7 +95,9 @@
 * **"To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk   Improves Trading Decisions"**, Dimitrios Emmanoulopoulos, Ollie Olby et al.. [Paper](http://arxiv.org/abs/2507.08584v1)
 * **"RicciFlowRec: A Geometric Root Cause Recommender Using Ricci Curvature   on Financial Graphs"**, Zhongtian Sun, Anoushka Harit. [Paper](http://arxiv.org/abs/2508.09334v1)
 * **"A Comparative Analysis of Statistical and Machine Learning Models for   Outlier Detection in Bitcoin Limit Order Books"**, Ivan Letteri. [Paper](http://arxiv.org/abs/2507.14960v1)
-
+* **"Estimating Covariance for Global Minimum Variance Portfolio: A   Decision-Focused Learning Approach"**, Juchan Kim, Inwoo Tae et al.. [Paper](http://arxiv.org/abs/2508.10776v1)
+* **"When Influence Misleads: Informational and Strategic Limits of Social   Learning in Trading Networks"**, Bijin Joseph, Christoph Riedl et al.. [Paper](http://arxiv.org/abs/2507.01817v2)
+* **"Technical Indicator Networks (TINs): An Interpretable Neural   Architecture Modernizing Classic al Technical Analysis for Adaptive   Algorithmic Trading"**, Longfei Lu. [Paper](http://arxiv.org/abs/2507.20202v1)
   
 
 ## Prediction  & Machine Learning & Deep Learning Approaches
@@ -112,40 +117,28 @@
 * **"Data-Driven Dynamic Factor Modeling via Manifold Learning"**, Graeme Baker, Agostino Capponi et al.. [Paper](http://arxiv.org/abs/2506.19945v1)
 * **"The Within-Orbit Adaptive Leapfrog No-U-Turn Sampler"**, Nawaf Bou-Rabee, Bob Carpenter et al.. [Paper](http://arxiv.org/abs/2506.18746v1)
 * **"DeepSupp: Attention-Driven Correlation Pattern Analysis for Dynamic Time   Series Support and Resistance Levels Identification"**, Boris Kriuk, Logic Ng et al.. [Paper](http://arxiv.org/abs/2507.01971v1)
-* 
-* **"FORTRESS: Frontier Risk Evaluation for National Security and Public   Safety"**, Christina Q. Knight, Kaustubh Deshpande et al.. [Paper](http://arxiv.org/abs/2506.14922v2)
-* **"Caterpillar GNN: Replacing Message Passing with Efficient Aggregation"**, Marek Černý. [Paper](http://arxiv.org/abs/2506.06784v1)
-* **"Language Model Guided Reinforcement Learning in Quantitative Trading"**, Adam Darmanin, Vince Vella. [Paper](http://arxiv.org/abs/2508.02366v1)
-* **"MARS: A Meta-Adaptive Reinforcement Learning Framework for Risk-Aware   Multi-Agent Portfolio Management"**, Jiayi Chen, Jing Li et al.. [Paper](http://arxiv.org/abs/2508.01173v1)
+* **"Can We Reliably Predict the Fed's Next Move? A Multi-Modal Approach to   U.S. Monetary Policy Forecasting"**, Fiona Xiao Jingyi, Lili Liu. [Paper](http://arxiv.org/abs/2506.22763v1)
+* **"NGAT: A Node-level Graph Attention Network for Long-term Stock   Prediction"**, Yingjie Niu, Mingchuan Zhao et al.. [Paper](http://arxiv.org/abs/2507.02018v1)
+* **"Explainable AI for Comprehensive Risk Assessment for Financial Reports:   A Lightweight Hierarchical Transformer Network Approach"**, Xue Wen Tan, Stanley Kok. [Github](https://github.com/Chen-XueWen/TinyXRA.) | [Paper](http://arxiv.org/abs/2506.23767v2)
+* **"Overparametrized models with posterior drift"**, Guillaume Coqueret, Martial Laguerre. [Paper](http://arxiv.org/abs/2506.23619v1)
+* **"Predicting Stock Market Crash with Bayesian Generalised Pareto   Regression"**, Sourish Das. [Paper](http://arxiv.org/abs/2506.17549v1)
+* **"Cryptocurrency Price Forecasting Using Machine Learning: Building   Intelligent Financial Prediction Models"**, Md Zahidul Islam, Md Shafiqur Rahman et al.. [Paper](http://arxiv.org/abs/2508.01419v1)
+* **"Dynamic Asset Pricing with α-MEU Model"**, Jiacheng Fan, Xue Dong He et al.. [Paper](http://arxiv.org/abs/2507.04093v1)
+* **"HAELT: A Hybrid Attentive Ensemble Learning Transformer Framework for   High-Frequency Stock Price Forecasting"**, Thanh Dan Bui. [Paper](http://arxiv.org/abs/2506.13981v1)
+* **"A Framework for Predictive Directional Trading Based on Volatility and   Causal Inference"**, Ivan Letteri. [Paper](http://arxiv.org/abs/2507.09347v1)
+* **"Dependency Network-Based Portfolio Design with Forecasting and VaR   Constraints"**, Zihan Lin, Haojie Liu et al.. [Paper](http://arxiv.org/abs/2507.20039v1)
+* **"Advancing Exchange Rate Forecasting: Leveraging Machine Learning and AI   for Enhanced Accuracy in Global Financial Markets"**, Md. Yeasin Rahat, Rajan Das Gupta et al.. [Paper](http://arxiv.org/abs/2506.09851v1)
+
+
 * **"Learning from Expert Factors: Trajectory-level Reward Shaping for   Formulaic Alpha Mining"**, Junjie Zhao, Chengxi Zhang et al.. [Paper](http://arxiv.org/abs/2507.20263v1)
 * **"Alternative Loss Function in Evaluation of Transformer Models"**, Jakub Michańków, Paweł Sakowski et al.. [Paper](http://arxiv.org/abs/2507.16548v2)
-* **"Quantum-Enhanced Reinforcement Learning with LSTM Forecasting Signals   for Optimizing Fintech Trading Decisions"**, Yen-Ku Liu, Yun-Huei Pan et al.. [Paper](http://arxiv.org/abs/2507.12835v1)
-* **"Predicting Stock Market Crash with Bayesian Generalised Pareto   Regression"**, Sourish Das. [Paper](http://arxiv.org/abs/2506.17549v1)
-* **"Advancing Exchange Rate Forecasting: Leveraging Machine Learning and AI   for Enhanced Accuracy in Global Financial Markets"**, Md. Yeasin Rahat, Rajan Das Gupta et al.. [Paper](http://arxiv.org/abs/2506.09851v1)
-* **"HAELT: A Hybrid Attentive Ensemble Learning Transformer Framework for   High-Frequency Stock Price Forecasting"**, Thanh Dan Bui. [Paper](http://arxiv.org/abs/2506.13981v1)
-* **"Estimating Covariance for Global Minimum Variance Portfolio: A   Decision-Focused Learning Approach"**, Juchan Kim, Inwoo Tae et al.. [Paper](http://arxiv.org/abs/2508.10776v1)
 * **"$ε$-Softmax: Approximating One-Hot Vectors for Mitigating Label   Noise"**, Jialiang Wang, Xiong Zhou et al.. [Github](https://github.com/cswjl/eps-softmax.) | [Paper](http://arxiv.org/abs/2508.02387v1)
-* **"Cryptocurrency Price Forecasting Using Machine Learning: Building   Intelligent Financial Prediction Models"**, Md Zahidul Islam, Md Shafiqur Rahman et al.. [Paper](http://arxiv.org/abs/2508.01419v1)
-* **"Technical Indicator Networks (TINs): An Interpretable Neural   Architecture Modernizing Classic al Technical Analysis for Adaptive   Algorithmic Trading"**, Longfei Lu. [Paper](http://arxiv.org/abs/2507.20202v1)
-* **"Dependency Network-Based Portfolio Design with Forecasting and VaR   Constraints"**, Zihan Lin, Haojie Liu et al.. [Paper](http://arxiv.org/abs/2507.20039v1)
 * **"A diffusion-based generative model for financial time series via   geometric Brownian motion"**, Gihun Kim, Sun-Yong Choi et al.. [Paper](http://arxiv.org/abs/2507.19003v1)
 * **"KASPER: Kolmogorov Arnold Networks for Stock Prediction and Explainable   Regimes"**, Vidhi Oad, Param Pathak et al.. [Paper](http://arxiv.org/abs/2507.18983v1)
 * **"Financial Regulation and AI: A Faustian Bargain?"**, Christopher Clayton, Antonio Coppola. [Paper](http://arxiv.org/abs/2507.18747v1)
 * **"Learning graphons from data: Random walks, transfer operators, and   spectral clustering"**, Stefan Klus, Jason J. Bramburger. [Paper](http://arxiv.org/abs/2507.18147v1)
 * **"Does More Inference-Time Compute Really Help Robustness?"**, Tong Wu, Chong Xiang et al.. [Paper](http://arxiv.org/abs/2507.15974v1)
 * **"An Information-Theoretic Intersectional Data Valuation Theory"**, Eduardo C. Garrido-Merchán. [Paper](http://arxiv.org/abs/2507.14742v1)
-* **"A Framework for Predictive Directional Trading Based on Volatility and   Causal Inference"**, Ivan Letteri. [Paper](http://arxiv.org/abs/2507.09347v1)
-* **"Dynamic Asset Pricing with α-MEU Model"**, Jiacheng Fan, Xue Dong He et al.. [Paper](http://arxiv.org/abs/2507.04093v1)
-* **"When Influence Misleads: Informational and Strategic Limits of Social   Learning in Trading Networks"**, Bijin Joseph, Christoph Riedl et al.. [Paper](http://arxiv.org/abs/2507.01817v2)
-* **"NGAT: A Node-level Graph Attention Network for Long-term Stock   Prediction"**, Yingjie Niu, Mingchuan Zhao et al.. [Paper](http://arxiv.org/abs/2507.02018v1)
-* **"Explainable AI for Comprehensive Risk Assessment for Financial Reports:   A Lightweight Hierarchical Transformer Network Approach"**, Xue Wen Tan, Stanley Kok. [Github](https://github.com/Chen-XueWen/TinyXRA.) | [Paper](http://arxiv.org/abs/2506.23767v2)
-* **"Overparametrized models with posterior drift"**, Guillaume Coqueret, Martial Laguerre. [Paper](http://arxiv.org/abs/2506.23619v1)
-* **"Can We Reliably Predict the Fed's Next Move? A Multi-Modal Approach to   U.S. Monetary Policy Forecasting"**, Fiona Xiao Jingyi, Lili Liu. [Paper](http://arxiv.org/abs/2506.22763v1)
-* **"An Explicit Solution for the Problem of Optimal Investment with Random   Endowment"**, Michael Donisch, Christoph Knochenhauer. [Paper](http://arxiv.org/abs/2506.20506v1)
-* **"A comparative analysis of machine learning algorithms for predicting   probabilities of default"**, Adrian Iulian Cristescu, Matteo Giordano. [Paper](http://arxiv.org/abs/2506.19789v1)
-* **"Anticipating Bugs: Ticket-Level Bug Prediction and Temporal Proximity   Effects"**, Daniele La Prova, Emanuele Gentili et al.. [Paper](http://arxiv.org/abs/2506.14290v1)
-* **"Safety-Aware Reinforcement Learning for Control via Risk-Sensitive   Action-Value Iteration and Quantile Regression"**, Clinton Enwerem, Aniruddh G. Puranic et al.. [Paper](http://arxiv.org/abs/2506.06954v1)
-* **"When Better Features Mean Greater Risks: The Performance-Privacy   Trade-Off in Contrastive Learning"**, Ruining Sun, Hongsheng Hu et al.. [Github](https://github.com/SeroneySun/LpLA_code.) | [Paper](http://arxiv.org/abs/2506.05743v1)
 
-* **"Because we have LLMs, we Can and Should Pursue Agentic Interpretability"**, Been Kim, John Hewitt et al.. [Paper](http://arxiv.org/abs/2506.12152v1)
+
 
