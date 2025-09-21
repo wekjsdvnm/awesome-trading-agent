@@ -76,6 +76,7 @@
 * **"Language Model Guided Reinforcement Learning in Quantitative Trading"**, Adam Darmanin, Vince Vella. [Paper](http://arxiv.org/abs/2508.02366v1)
 * **"MARS: A Meta-Adaptive Reinforcement Learning Framework for Risk-Aware   Multi-Agent Portfolio Management"**, Jiayi Chen, Jing Li et al.. [Paper](http://arxiv.org/abs/2508.01173v1)
 * **"Quantum-Enhanced Reinforcement Learning with LSTM Forecasting Signals   for Optimizing Fintech Trading Decisions"**, Yen-Ku Liu, Yun-Huei Pan et al.. [Paper](http://arxiv.org/abs/2507.12835v1)
+* **"Learning from Expert Factors: Trajectory-level Reward Shaping for   Formulaic Alpha Mining"**, Junjie Zhao, Chengxi Zhang et al.. [Paper](http://arxiv.org/abs/2507.20263v1)
 
 
 ## Other Agent
@@ -128,17 +129,9 @@
 * **"A Framework for Predictive Directional Trading Based on Volatility and   Causal Inference"**, Ivan Letteri. [Paper](http://arxiv.org/abs/2507.09347v1)
 * **"Dependency Network-Based Portfolio Design with Forecasting and VaR   Constraints"**, Zihan Lin, Haojie Liu et al.. [Paper](http://arxiv.org/abs/2507.20039v1)
 * **"Advancing Exchange Rate Forecasting: Leveraging Machine Learning and AI   for Enhanced Accuracy in Global Financial Markets"**, Md. Yeasin Rahat, Rajan Das Gupta et al.. [Paper](http://arxiv.org/abs/2506.09851v1)
-
-
-* **"Learning from Expert Factors: Trajectory-level Reward Shaping for   Formulaic Alpha Mining"**, Junjie Zhao, Chengxi Zhang et al.. [Paper](http://arxiv.org/abs/2507.20263v1)
 * **"Alternative Loss Function in Evaluation of Transformer Models"**, Jakub Michańków, Paweł Sakowski et al.. [Paper](http://arxiv.org/abs/2507.16548v2)
-* **"$ε$-Softmax: Approximating One-Hot Vectors for Mitigating Label   Noise"**, Jialiang Wang, Xiong Zhou et al.. [Github](https://github.com/cswjl/eps-softmax.) | [Paper](http://arxiv.org/abs/2508.02387v1)
 * **"A diffusion-based generative model for financial time series via   geometric Brownian motion"**, Gihun Kim, Sun-Yong Choi et al.. [Paper](http://arxiv.org/abs/2507.19003v1)
 * **"KASPER: Kolmogorov Arnold Networks for Stock Prediction and Explainable   Regimes"**, Vidhi Oad, Param Pathak et al.. [Paper](http://arxiv.org/abs/2507.18983v1)
 * **"Financial Regulation and AI: A Faustian Bargain?"**, Christopher Clayton, Antonio Coppola. [Paper](http://arxiv.org/abs/2507.18747v1)
-* **"Learning graphons from data: Random walks, transfer operators, and   spectral clustering"**, Stefan Klus, Jason J. Bramburger. [Paper](http://arxiv.org/abs/2507.18147v1)
-* **"Does More Inference-Time Compute Really Help Robustness?"**, Tong Wu, Chong Xiang et al.. [Paper](http://arxiv.org/abs/2507.15974v1)
-* **"An Information-Theoretic Intersectional Data Valuation Theory"**, Eduardo C. Garrido-Merchán. [Paper](http://arxiv.org/abs/2507.14742v1)
-
 
 
