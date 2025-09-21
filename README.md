@@ -2,7 +2,12 @@
 ## 📑 Table of Contents
 - [Surveys & Benchmarks](#Surveys--Benchmarks)
 - [Trading & LLM-based Agents](#Trading--LLM-based-Agents)
-
+- [Cryptocurrency Trading & LLM-based Agents](#Cryptocurrency-Trading--LLM-based-Agents)
+- [LLM for Market Simulation & Socio-economic Modeling](#LLM-for-Market-Simulation--Socio-economic-Modeling)
+- [Hybrid and Emerging Approaches & Reinforcement Learning and Strategy Optimization](#Hybrid-and-Emerging-Approaches--Reinforcement-Learning-and-Strategy-Optimization)
+- [Other-Agent](#Other-Agent)
+- [Trading & Machine Learning & Deep Learning Approaches](#Trading--Machine-Learning--Deep-Learning-Approaches)
+- [Prediction  & Machine Learning & Deep Learning Approaches](#Prediction--Machine-Learning--Deep-Learning-Approaches)
 ## Surveys & Benchmarks
 * **"Assessing the Capabilities and Limitations of FinGPT Model in Financial   NLP Applications"**, Prudence Djagba, Chimezie A. Odinakachukwu. [Paper](http://arxiv.org/abs/2507.08015v1)
 * **"Benchmarking Pre-Trained Time Series Models for Electricity Price   Forecasting"**, Timothée Hornek Amir Sartipi, Igor Tchappi et al.. [Paper](http://arxiv.org/abs/2506.08113v1)
@@ -35,7 +40,7 @@
 * **"ElliottAgents: A Natural Language-Driven Multi-Agent System for Stock   Market Analysis and Prediction"**, Jarosław A. Chudziak, Michał Wawer. [Paper](http://arxiv.org/abs/2507.03435v1)
 * **"Your AI, Not Your View: The Bias of LLMs in Investment Analysis"**, Hoyoung Lee, Junhyuk Seo et al.. [Paper](http://arxiv.org/abs/2507.20957v2)
 
-### Cryptocurrency Trading & LLM-based Agents
+## Cryptocurrency Trading & LLM-based Agents
 * **"A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading"** [Github](https://github.com/Xtra-Computing/CryptoTrade)|[Paper](https://aclanthology.org/2024.emnlp-main.63.pdf)
 * **"MountainLion: A Multi-Modal LLM-Based Agent System for Interpretable and   Adaptive Financial Trading"**, Siyi Wu, Zhaoyang Guan et al.. [Paper](http://arxiv.org/abs/2507.20474v1)
 
