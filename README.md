@@ -7,7 +7,7 @@
 - [Hybrid and Emerging Approaches & Reinforcement Learning and Strategy Optimization](#Hybrid-and-Emerging-Approaches--Reinforcement-Learning-and-Strategy-Optimization)
 - [Other-Agent](#Other-Agent)
 - [Trading & Machine Learning & Deep Learning Approaches](#Trading--Machine-Learning--Deep-Learning-Approaches)
-- [Prediction  & Machine Learning & Deep Learning Approaches](#Prediction--Machine-Learning--Deep-Learning-Approaches)
+- [Prediction & Machine Learning & Deep Learning Approaches](#Prediction--Machine-Learning--Deep-Learning-Approaches)
 ## Surveys & Benchmarks
 * **"Assessing the Capabilities and Limitations of FinGPT Model in Financial   NLP Applications"**, Prudence Djagba, Chimezie A. Odinakachukwu. [Paper](http://arxiv.org/abs/2507.08015v1)
 * **"Benchmarking Pre-Trained Time Series Models for Electricity Price   Forecasting"**, Timothée Hornek Amir Sartipi, Igor Tchappi et al.. [Paper](http://arxiv.org/abs/2506.08113v1)
@@ -101,7 +101,7 @@
 * **"Technical Indicator Networks (TINs): An Interpretable Neural   Architecture Modernizing Classic al Technical Analysis for Adaptive   Algorithmic Trading"**, Longfei Lu. [Paper](http://arxiv.org/abs/2507.20202v1)
   
 
-## Prediction  & Machine Learning & Deep Learning Approaches
+## Prediction & Machine Learning & Deep Learning Approaches
 * **"FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series   Analysis"**, Wenyan Xu, Dawei Xiang et al.. [Paper](http://arxiv.org/abs/2506.05019v1)
 * **"Kronos: A Foundation Model for the Language of Financial Markets"**, Yu Shi, Zongliang Fu et al.. [Github](https://github.com/shiyu-coder/Kronos.) | [Paper](http://arxiv.org/abs/2508.02739v1)
 * **"TLCCSP: A Scalable Framework for Enhancing Time Series Forecasting with  Time-Lagged Cross-Correlations"**, Jianfei Wu, Wenmian Yang et al.. [Paper](http://arxiv.org/abs/2508.07016v1)
