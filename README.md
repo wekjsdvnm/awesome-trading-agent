@@ -1,7 +1,9 @@
 # trading-agent-paper
 ## 📑 Table of Contents
-## Surveys & Benchmarks
 - [Surveys & Benchmarks](#Surveys--Benchmarks)
+- [Trading & LLM-based Agents](#Trading--LLM-based-Agents)
+
+## Surveys & Benchmarks
 * **"Assessing the Capabilities and Limitations of FinGPT Model in Financial   NLP Applications"**, Prudence Djagba, Chimezie A. Odinakachukwu. [Paper](http://arxiv.org/abs/2507.08015v1)
 * **"Benchmarking Pre-Trained Time Series Models for Electricity Price   Forecasting"**, Timothée Hornek Amir Sartipi, Igor Tchappi et al.. [Paper](http://arxiv.org/abs/2506.08113v1)
 * **"Assessing (im)balance in signed brain networks"**, Marzio Di Vece, Emanuele Agrimi et al.. [Paper](http://arxiv.org/abs/2508.00542v1)
@@ -11,7 +13,7 @@
 * **"Integrating Large Language Models in Financial Investments and Market   Analysis: A Survey"**, Sedigheh Mahdavi, Jiating et al.. [Paper](http://arxiv.org/abs/2507.01990v1)
 * **"FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment"**, Wentao Zhang, Yilei Zhao et al.. [Github](https://github.com/DVampire/FinWorld) | [Paper](http://arxiv.org/abs/2508.02292v1)
   
-### Trading & LLM-based Agents
+## Trading & LLM-based Agents
 * **"TradingGroup: A Multi-Agent Trading System with Self-Reflection and Data-Synthesis"** [Paper](https://arxiv.org/pdf/2508.17565)
 * **TradingAgents: Multi-Agents LLM Financial Trading Framework** [Github](https://arxiv.org/abs/2412.20138) | [Paper](https://github.com/TauricResearch/TradingAgents)
 * **"Order Book Filtration and Directional Signal Extraction at High   Frequency"**, Aditya Nittur Anantha, Shashi Jain et al.. [Paper](http://arxiv.org/abs/2507.22712v1)
