@@ -9,6 +9,10 @@
 - [Trading & Machine Learning & Deep Learning Approaches](#Trading--Machine-Learning--Deep-Learning-Approaches)
 - [Prediction & Machine Learning & Deep Learning Approaches](#Prediction--Machine-Learning--Deep-Learning-Approaches)
 ## Surveys & Benchmarks
+* **"Profit Mirage: Revisiting Information Leakage in LLM-based Financial   Agents"**, Xiangyu Li, Yawen Zeng et al.. [Paper](http://arxiv.org/abs/2510.07920v1)
+* **"The New Quant: A Survey of Large Language Models in Financial Prediction   and Trading"**, Weilong Fu. [Paper](http://arxiv.org/abs/2510.05533v1)
+* **"StockBench: Can LLM Agents Trade Stocks Profitably In Real-world   Markets?"**, Yanxu Chen, Zijun Yao et al.. [Paper](http://arxiv.org/abs/2510.02209v1)
+* **"Pre-Hoc Predictions in AutoML: Leveraging LLMs to Enhance Model   Selection and Benchmarking for Tabular datasets"**, Yannis Belkhiter, Seshu Tirupathi et al.. [Paper](http://arxiv.org/abs/2510.01842v1)
 * **"When Agents Trade: Live Multi-Market Trading Benchmark for LLM Agents"**, Lingfei Qian, Xueqing Peng et al.. [Paper](http://arxiv.org/abs/2510.11695v1)
 * **"Assessing the Capabilities and Limitations of FinGPT Model in Financial   NLP Applications"**, Prudence Djagba, Chimezie A. Odinakachukwu. [Paper](http://arxiv.org/abs/2507.08015v1)
 * **"Benchmarking Pre-Trained Time Series Models for Electricity Price   Forecasting"**, Timothée Hornek Amir Sartipi, Igor Tchappi et al.. [Paper](http://arxiv.org/abs/2506.08113v1)
